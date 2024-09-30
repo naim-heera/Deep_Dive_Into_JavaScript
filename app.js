@@ -1,5 +1,5 @@
 // Length of a string
-const a = "Heera";
+const a = "Hi, my name is Naim Heera";
 a.length;
 console.log(a.length);
 
@@ -28,6 +28,15 @@ if (a.endsWith("r")) {
 } else {
   console.log("Yes it doesn't ends with r");
 }
+
+// Finding the position of a substring in a string (whitespace are counted and if substring is not part of the string it will give -1)
+console.log(a.indexOf("r"));
+console.log(a.indexOf("n"));
+
+// find the first occurrence of a substring, how do you go about finding subsequent occurrences
+
+
+
 
 
 
