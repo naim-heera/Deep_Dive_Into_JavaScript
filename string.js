@@ -40,3 +40,11 @@ console.log(a.indexOf("n"));
 
 
 
+
+}
+
+
+
+
+
+
